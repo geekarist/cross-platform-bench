@@ -13,10 +13,10 @@ pts/c-ray-1.1.0
 pts/primesieve-1.3.0
 pts/stockfish-1.0.0
 pts/hint-1.0.0
-pts/xonotic-1.4.0
 EOF
 
 read -r -d '' DISABLED_SUITES << EOF
+pts/xonotic-1.4.0
 EOF
 
 
